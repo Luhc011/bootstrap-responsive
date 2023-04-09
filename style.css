@@ -5,3 +5,17 @@
 .facilities-container {
   width: 325px;
 }
+
+.green-icon {
+  color: #daff01;
+}
+
+.form-wrapper {
+  width: 325px;
+}
+
+@media (min-width: 768px) {
+  .form-wrapper {
+    width: 696px;
+  }
+}
